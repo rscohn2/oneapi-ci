@@ -1,5 +1,5 @@
 ============================
- Intel\ |r| oneAPI CI Samples
+Intel\ |r| oneAPI CI Samples
 ============================
 
 This repo contains sample Public/Cloud CI configurations that
